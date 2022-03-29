@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Tombstone Spawn Delay (seconds)</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -11,17 +11,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>NPC Death Event Flag ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Revival Cost</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>NpcNameSwapParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -31,32 +31,32 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>Souls for Gift (Goods Vendor)</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Souls for Gift (Blacksmith)</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>INT Requirement for Gift</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>FTH Requirement for Gift</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28</name>
+    <name>Souls for ShopLineup Update 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Souls for ShopLineup Update 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
