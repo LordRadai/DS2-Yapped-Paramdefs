@@ -1,0 +1,1273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout>
+  <entry>
+    <name>isCastSorceries</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>isCastMiracles</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>isCastPyromancies</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+   <entry>
+    <name>isCastStavesHex</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk04</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk08</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Right 2h Grip Style</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Left 2h Grip Style</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Right 1h Grip Style</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Left 1h Grip Style</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Right Powerstance Grip Style</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Left Powerstance Grip Style</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Stance Swap Type</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+10:From Back
+20:From Right Hip
+30:Frop Left Hip
+</description>
+  </entry>
+  <entry>
+    <name>Right 1h Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Right 1h Relative Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Left 1h Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Left 1h Relative Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Right 2h Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Right 2h Relative Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Unk2B</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Unk2C</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Left 2h Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Left 2h Relative Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Unk2F</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Unk30</name>
+    <type>u8</type>
+    <default>0</default>
+<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+	</entry>
+  <entry>
+    <name>Right Holstered Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Right Holstered Relative Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Left Holstered Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+1:Perpendicular to Right Hand
+2:Perpendicular to Left Hand
+3:Disappear
+5:Right Feet
+6:Left Feet
+7:Disappears
+8:Body
+10:Top of Head
+20:Right Hand
+21:Left Hand
+22:Left Backhand
+26:Right Backhand
+30:Left Hip
+31:Right Hip
+32:Right Back
+33:Left Back
+34:Upside Down Right Back
+35:Upside Down Left Back
+38:Reversed Left Hip
+39:Reversed Right Hip
+40:Right Center Back
+41:Left Center Back
+42:Perpendicular Right Back
+43:Perpendicular Left Back
+44:Trasversal Up Angle Right Back
+45:Trasversal Down Angle Right Back
+46:Trasversal Down Angle Left Back
+47:Trasversal Up Angle Left Back
+49:Hip Back Center
+50:Far Back, Left
+51:Far Back, Right
+52:Reversed Hip, Upward
+53:Hip Back Center, Inside
+54:Right Back, Upper
+55:Left Back, Upper
+56:Trasversal Up Angle Right Back, Lower
+57:Trasversal Down Angle Right Back, Lower
+58:Right Hip, Rotated
+59:Left Hip, Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Left Holstered Relative Position</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+1:Normal
+2:Translated
+3:Rotated
+</description>
+  </entry>
+  <entry>
+    <name>Cast Type</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+0: None
+1: Arrows
+2: Great Arrows
+3: Bolts
+6: Sorceries/Miracles/Pyromancies
+</description>
+  </entry>
+  <entry>
+    <name>Weapon Category Name</name>
+    <type>u8</type>
+    <default>0</default>
+		<description>
+0:None
+1:Claw
+2:Fists
+3:Dagger
+4:Thrusting Sword
+5:Whip
+6:Twinblade
+7:Spear
+8:Lance
+9:Curved Sword
+10:Katana
+11:Straight Sword
+12:Reaper
+13:Greatsword
+14:Ultra Greatsword
+15:Curved Greatsword
+16:Hammer
+17:Great Hammer
+18:Axe
+19:Greataxe
+20:Halberd
+21:Staff
+22:Sacred Chime
+23:Bow
+24:Greatbow
+25:Crossbow
+26:Small Shield
+27:Shield
+28:Greatshield
+29:Torch
+30:Binoculars
+31:Pyromancy Flame
+</description>
+  </entry>
+  <entry>
+    <name>Swing Sound</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+0: Twinblade/Scimitars/Katanas/Greatswords
+1: Ultra Greatswords/Curved Greatswords
+2: Dagger
+3: Fists/Shields
+4: Reapers/Axes
+5: Hammers/Halberds/Great Hammers/Binoculars
+6: Spears
+7: Whip
+8: Bows/Great Bows
+9: Crossbows
+10: Staves
+11: Chimes
+</description>
+  </entry>
+  <entry>
+    <name>Unk38</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk3C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk40</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk44</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk48</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk4C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk50</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk51</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk52</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>isCastChimeHex</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Left Handed Damage Reduction Rate</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk58</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk5C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Right Handed Damage Reduction Rate</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk64</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk68</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk6C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk70</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk74</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk78</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk7C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk80</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk84</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk88</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk8C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk90</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk94</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk98</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk9C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkA0</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkA0</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkA0</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkA0</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Backstab Check Animation ID</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Guard Break Check Animation ID</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkAC</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkB0</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkB4</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkB8</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkBC</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkC0</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkC4</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkC8</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkCC</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkD0</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkD4</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkD8</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkDC</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkE0</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkE4</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkE8</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkEC</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkF0</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkF4</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkF8</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkFC</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk100</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk104</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk108</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk10C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk110</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk114</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk118</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk11C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk120</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk124</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk128</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk12C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk130</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk134</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk138</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk139</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Mundane Scaling %</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk13B</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+</layout>
