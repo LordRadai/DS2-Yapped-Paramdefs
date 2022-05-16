@@ -201,12 +201,12 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Hitbox Size</name>
+    <name>Hitbox Radius</name>
     <type>f32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Hitbox Size 2</name>
+    <name>Hitbox Lenght</name>
     <type>f32</type>
     <default>-1</default>
   </entry>

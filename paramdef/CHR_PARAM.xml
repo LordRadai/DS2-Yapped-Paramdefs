@@ -392,12 +392,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkFC</name>
+    <name>Posture</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk100</name>
+    <name>Posture Recovery (/s)</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -428,12 +428,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk118</name>
+    <name>Poise</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk11C</name>
+    <name>Poise Regen (per second)</name>
     <type>f32</type>
     <default>0</default>
   </entry>

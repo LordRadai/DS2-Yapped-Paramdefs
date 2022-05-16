@@ -40,19 +40,19 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Damage Element</name>
+    <name>Damage Type</name>
     <type>u8</type>
     <default>0</default>
     <description>
 0 - Default
-1 - Offensive Spell: Sorcery
-2 - Offensive Spell: Miracle
-3 - Offensive Spell: Pyromancy
-4 - Offensive Spell: Hex
-5 - Utility Spell
-6 - Poison Mist / Dark Fog
-8 - Acid Surge
-11 - Toxic Mist</description>
+1 - Magic
+2 - Lightning
+3 - Fire
+4 - Dark
+5 - Flat Damage
+6 - Poison
+8 - Durability
+11 - Toxicity</description>
   </entry>
   <entry>
     <name>Unknown Category</name>
@@ -104,46 +104,50 @@
   </entry>
   
   <entry>
-    <name>Unk28</name>
+    <name>Knockback Amount</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk2C</name>
+    <name>Knockback Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk30</name>
+    <name>isSpawnOnWeapon</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk31</name>
+    <name>Hitbox Origin DmyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Guard Break Related</name>
-    <type>u8</type>
+    <type>s8</type>
     <default>0</default>
-    <description>255 default, 2 for guard break</description>
+    <description>-1 default, 2 for guard break</description>
   </entry>
   <entry>
-    <name>Unk33</name>
+    <name>Hitbox Shape</name>
     <type>u8</type>
     <default>0</default>
+    <description>
+0 - Sphere
+1 - Capsule
+</description>
   </entry>
   
   <entry>
-    <name>Hitbox - Minimum Size</name>
+    <name>Hitbox Radius Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Hitbox - Maximum Size</name>
+    <name>Hitbox Lenght Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -273,13 +277,13 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk63</name>
+    <name>Hitback Hitbox Origin DummyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk64</name>
+    <name>Hitback Hitbox Shape</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -300,12 +304,12 @@
   </entry>
   
   <entry>
-    <name>Unk68</name>
+    <name>Hitback Hitbox Radius Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk6C</name>
+    <name>Hitback Hitbox Lenght Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>

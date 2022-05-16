@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>ChrType</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -326,62 +326,62 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk100</name>
+    <name>Backstab Hitbox Angle XY</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk104</name>
+    <name>Backstab Hitbox Angle Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk108</name>
+    <name>Backstab Hitbox Height</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10C</name>
+    <name>Backstab Hitbox Radius</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk110</name>
+    <name>Ripsote Hitbox Angle XY</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk114</name>
+    <name>Riposte Hitbox Angle Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk118</name>
+    <name>Riposte Hitbox Height</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk11C</name>
+    <name>Riposte Hitbox Radius</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk120</name>
+    <name>Guard Break Stab Hitbox Angle XY</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk124</name>
+    <name>Guard Break Stab Hitbox Angle Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk128</name>
+    <name>Guard Break Stab Hitbox Height</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk12C</name>
+    <name>Guard Break Stab Hitbox Radius</name>
     <type>f32</type>
     <default>0</default>
   </entry>
