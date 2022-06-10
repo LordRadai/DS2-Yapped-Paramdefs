@@ -276,12 +276,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Guard Break #1</name>
+    <name>Guard Break 1H</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Guard Break #2</name>
+    <name>Guard Break 2H</name>
     <type>u32</type>
     <default>0</default>
   </entry>

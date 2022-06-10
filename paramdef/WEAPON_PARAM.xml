@@ -196,7 +196,7 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk94</name>
+    <name>Posture Damage Multiplier</name>
     <type>f32</type>
     <default>-1</default>
   </entry>

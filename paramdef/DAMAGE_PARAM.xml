@@ -17,19 +17,19 @@
   </entry>
   
   <entry>
-    <name>Damage Inflicted</name>
+    <name>Damage[0]</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk10</name>
+    <name>Damage[1]</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk14</name>
+    <name>Damage[2]</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -40,7 +40,22 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Damage Type</name>
+    <name>Damage Type[0]</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>
+0 - Default
+1 - Magic
+2 - Lightning
+3 - Fire
+4 - Dark
+5 - Flat Damage
+6 - Poison
+8 - Durability
+11 - Toxicity</description>
+  </entry>
+   <entry>
+    <name>Damage Type[1]</name>
     <type>u8</type>
     <default>0</default>
     <description>
@@ -55,21 +70,20 @@
 11 - Toxicity</description>
   </entry>
   <entry>
-    <name>Unknown Category</name>
+    <name>Damage Type[2]</name>
     <type>u8</type>
     <default>0</default>
     <description>
-4 - Outcry
-5 - Default</description>
+0 - Default
+1 - Magic
+2 - Lightning
+3 - Fire
+4 - Dark
+5 - Flat Damage
+6 - Poison
+8 - Durability
+11 - Toxicity</description>
   </entry>
-  <entry>
-    <name>Unknown Category</name>
-    <type>u8</type>
-    <default>0</default>
-    <description>
-5 - Default</description>
-  </entry>
-  
   <entry>
     <name>Damage Multiplier</name>
     <type>f32</type>
@@ -319,12 +333,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>AOE Size</name>
+    <name>Hitbox Max Size</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Hitbox Life</name>
+    <name>Hitbox Expansion Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>ChrType</name>
+    <name>Chr Size</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -21,7 +21,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Out of Stamina State Duration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -156,12 +156,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk78</name>
+    <name>Low HP State Treshold Max</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk7C</name>
+    <name>Low HP State Treshold Min</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -181,12 +181,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk8C</name>
+    <name>Collision Capusle Height</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk90</name>
+    <name>Collision Capsule Radius</name>
     <type>f32</type>
     <default>0</default>
   </entry>

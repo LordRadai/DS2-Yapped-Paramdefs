@@ -46,22 +46,22 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>Player HP Bar Lenght Factor 1</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28</name>
+    <name>Player Stamina Bar Lenght Factor 1</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Player HP Bar Lenght Factor 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Player Stamina Bar Lenght Factor 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>
