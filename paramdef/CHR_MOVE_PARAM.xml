@@ -56,12 +56,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Slow Walk Turn Rate</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Walking Turn Rate</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -106,12 +106,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk54</name>
+    <name>Running Turning Related 1</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58</name>
+    <name>Running Turning Related 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>
