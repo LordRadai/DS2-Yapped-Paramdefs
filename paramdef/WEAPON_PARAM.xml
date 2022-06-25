@@ -211,12 +211,12 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Hitbox Wall Cancel</name>
+    <name>Hitback Radius</name>
     <type>f32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Hitbox Wall Cancel</name>
+    <name>Hitback Lenght</name>
     <type>f32</type>
     <default>-1</default>
   </entry>

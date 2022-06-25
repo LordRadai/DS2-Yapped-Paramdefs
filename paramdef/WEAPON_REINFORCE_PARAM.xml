@@ -246,47 +246,47 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC4</name>
+    <name>Infusion Modifier %: Magic</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC8</name>
+    <name>Infusion Modifier %: Lightning</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkCC</name>
+    <name>Infusion Modifier %: Fire</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD0</name>
+    <name>Infusion Modifier %: Dark</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD4</name>
+    <name>Infusion Modifier %: Poison</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD8</name>
+    <name>Infusion Modifier %: Bleed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkDC</name>
+    <name>Infusion Modifier %: Raw</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE0</name>
+    <name>Infusion Modifier %: Enchanted</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE4</name>
+    <name>Infusion Modifier %: Mundane</name>
     <type>f32</type>
     <default>0</default>
   </entry>

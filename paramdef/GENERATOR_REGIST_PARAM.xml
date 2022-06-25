@@ -2,18 +2,18 @@
 <layout>
   <entry>
     <name>EnemyParamID</name>
-    <type>u32</type>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>LogicParamID</name>
-    <type>u32</type>
+    <type>s32</type>
     <default>0</default>
     <description>Refers to LogicComParam</description>
   </entry>
   <entry>
     <name>DefaultLogicParamID</name>
-    <type>u32</type>
+    <type>s32</type>
     <default>0</default>
     <description>Refers to EnemyDefaultLogicParam</description>
   </entry>

@@ -11,12 +11,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Movement Speed Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Turning Speed Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>

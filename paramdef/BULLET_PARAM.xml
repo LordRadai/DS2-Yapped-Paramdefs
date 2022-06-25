@@ -61,43 +61,13 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk25</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk26</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk27</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk28</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk29</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
     <name>Vertical Angle Randomizer</name>
-    <type>u8</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Horizontal Angle Randomizer</name>
-    <type>u8</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>

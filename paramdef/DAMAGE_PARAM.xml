@@ -166,13 +166,13 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C</name>
+    <name>Cycle Period</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk40</name>
+    <name>Target</name>
     <type>u8</type>
     <default>0</default>
   </entry>
