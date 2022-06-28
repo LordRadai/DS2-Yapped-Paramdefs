@@ -1,0 +1,5 @@
+31130000 Soul Shower - Director
+31130001 Soul Shower - Orb
+31130010 Soul Shower - Bullets
+31140000 Soul Greatsword - Director
+31140010 Soul Greatsword - Blade
