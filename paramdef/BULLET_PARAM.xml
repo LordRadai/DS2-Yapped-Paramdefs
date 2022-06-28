@@ -267,7 +267,7 @@
   </entry>
   <entry>
     <name>UnkA4</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -326,12 +326,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Effect on Collision</name>
+    <name>Collision SFX</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Effect on Death</name>
+    <name>Timeout SFX</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -346,7 +346,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Behavior on Collision</name>
+    <name>BulletAttachParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -356,32 +356,32 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Child Bullet 1</name>
+    <name>Child Bullet 1 - BulletParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Child Bullet 1 - Damage ID</name>
+    <name>Child Bullet 1 - DamageParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Child Bullet 2 - ID 1</name>
+    <name>Child Bullet 2 - BulletParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Child Bullet 2 - Damage ID</name>
+    <name>Child Bullet 2 - DamageParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Child Bullet 3 - ID 1</name>
+    <name>Child Bullet 3 - BulletParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Child Bullet 3 - Damage ID</name>
+    <name>Child Bullet 3 - DamageParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

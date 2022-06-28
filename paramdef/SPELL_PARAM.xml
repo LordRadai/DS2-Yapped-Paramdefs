@@ -41,7 +41,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Startup Weight</name>
+    <name>Startup Duration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -51,12 +51,12 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Startup Animation ID</name>
+    <name>Startup Animation ID - 1H Left</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Casting Animation ID</name>
+    <name>Casting Animation ID - 1H Left</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -76,17 +76,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Startup Animation ID - 1H Right</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Casting Animation ID - 1H Right</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk38</name>
+    <name>Stamina Cost</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -101,17 +101,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Startup Animation ID - 2H Left</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Startup Animation ID - 2H Left</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk4C</name>
+    <name>Stamina Cost</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -126,17 +126,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Startup Animation ID - 2H Right</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Startup Animation ID - 2H Right</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk60</name>
+    <name>Stamina Cost</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -261,17 +261,17 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>UnkC4</name>
+    <name>isSpawnOnBody</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC5</name>
+    <name>Staff SFX DummyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC6</name>
+    <name>Staff SFX DummyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -291,17 +291,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD0</name>
+    <name>isSpawnOnWeapon</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD1</name>
+    <name>Body SFX DummyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD2</name>
+    <name>Body SFX DummyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
