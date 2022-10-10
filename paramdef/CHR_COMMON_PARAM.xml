@@ -181,12 +181,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Collision Capusle Height</name>
+    <name>Collider Height</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Collision Capsule Radius</name>
+    <name>Collider Radius</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -196,12 +196,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk98</name>
+    <name>Block Angle</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk9C</name>
+    <name>Parry Angle</name>
     <type>f32</type>
     <default>0</default>
   </entry>

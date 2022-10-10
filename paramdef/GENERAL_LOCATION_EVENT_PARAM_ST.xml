@@ -1,63 +1,83 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Position X</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>Position Y</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Position Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Rotation X</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Rotation Y</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
+    <name>Rotation Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
-    <type>s32</type>
+    <name>Region Type</name>
+    <type>s8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Unk19</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1A</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1B</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Scale X</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Scale Y</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>Scale Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk28</name>
-    <type>s32</type>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk2A</name>
+    <type>s16</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk2C</name>
-    <type>f32</type>
+    <type>s32</type>
     <default>0</default>
   </entry>
 </layout>

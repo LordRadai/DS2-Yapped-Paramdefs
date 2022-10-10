@@ -21,7 +21,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>NpcPlayerStatusParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -199,7 +199,22 @@
   </entry>
   <entry>
     <name>Unk68</name>
-    <type>s32</type>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk69</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk6A</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk6B</name>
+    <type>s8</type>
     <default>0</default>
   </entry>
   <entry>
@@ -417,7 +432,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Full Body SFX ID</name>
+    <name>ChrFullBodySfxParam ID</name>
     <type>s32</type>
     <default>0</default>
     <description>Refers to ChrFullyBodySfxParam</description>
@@ -530,7 +545,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk15C</name>
+    <name>Name Text ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

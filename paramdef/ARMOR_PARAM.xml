@@ -111,7 +111,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk44</name>
+    <name>ControlParameters|BlendWeight_HandsUp_S</name>
     <type>s16</type>
     <default>0</default>
   </entry>

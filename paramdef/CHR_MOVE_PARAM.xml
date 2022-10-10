@@ -301,7 +301,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF0</name>
+    <name>Attack Wind Down Walking Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -621,7 +621,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F0</name>
+    <name>Fall Min Speed Difference</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -701,17 +701,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk230</name>
+    <name>Ladder Climbing Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk234</name>
+    <name>Ladder Sprint Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk238</name>
+    <name>Ladder Sliding Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>

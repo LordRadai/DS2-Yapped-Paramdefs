@@ -182,21 +182,18 @@
     <type>s32</type>
     <default>0</default>
   </entry>
-  
   <entry>
     <name>Camera Noise Param ID</name>
     <type>s32</type>
     <default>0</default>
-  </entry>
-  
+  </entry> 
   <entry>
     <name>Pad Rumble Param ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  
   <entry>
-    <name>Unk5C</name>
+    <name>Pad Rumble Duration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -246,7 +243,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Damage Window Category ID</name>
+    <name>DamageWindCateParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

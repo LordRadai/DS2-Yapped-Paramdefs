@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Group 1: Unk00</name>
+    <name>Group 1: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -121,42 +121,42 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk60</name>
+    <name>Group 1: Attack 1 Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk64</name>
+    <name>Group 1: Attack 2 Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk68</name>
+    <name>Group 1: Attack 3 Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk6C</name>
+    <name>Group 1: Attack 4 Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk70</name>
+    <name>Group 1: Attack 1 Recovery Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk74</name>
+    <name>Group 1: Attack 2 Recovery Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk78</name>
+    <name>Group 1: Attack 3 Recovery Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Group 1: Unk7C</name>
+    <name>Group 1: Attack 4 Recovery Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -271,7 +271,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Group 2: Unk00</name>
+    <name>Group 2: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -541,7 +541,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Group 3: Unk00</name>
+    <name>Group 3: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -811,7 +811,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Group 4: Unk00</name>
+    <name>Group 4: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -1081,7 +1081,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Group 5: Unk00</name>
+    <name>Group 5: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -1351,7 +1351,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Group 6: Unk00</name>
+    <name>Group 6: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -1621,7 +1621,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Group 7: Unk00</name>
+    <name>Group 7: Animation Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
