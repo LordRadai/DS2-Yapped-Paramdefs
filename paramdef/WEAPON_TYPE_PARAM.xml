@@ -901,9 +901,36 @@
 </description>
   </entry>
   <entry>
-    <name>Unk38</name>
+    <name>DualWieldPermissionParam ID</name>
     <type>s32</type>
     <default>0</default>
+	<description>
+0: None
+10: Bare Fists
+20: Claws (And fist Weapons)
+30: Daggers
+40: Thrusting Swords
+50: Curved Swords, Katanas and Straight Swords
+55: Bewitched Alonne Sword
+60: Twinblades
+70: Hammers
+80: Greatswords
+85: Majestic Greatsword
+90: Axes
+100: Curved Greatsword
+110: Ultra Greatswords / Greataxe
+120: Greathammer
+130: Reapers
+140: Halberd
+150: Spear
+160: Lance
+170: Whips
+180: Crossbow
+190: Avelyn/Repeating xbow
+220: Reeves GSh
+230: Orma GSh
+240: Work Hook
+</description>
   </entry>
   <entry>
     <name>Unk3C</name>

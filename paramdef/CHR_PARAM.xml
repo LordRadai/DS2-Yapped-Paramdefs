@@ -468,11 +468,10 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk12C</name>
+    <name>Timer Reduction on Kill</name>
     <type>f32</type>
     <default>0</default>
   </entry>
-  
   <entry>
     <name>Unk130</name>
     <type>u8</type>
