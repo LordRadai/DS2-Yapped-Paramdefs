@@ -26,27 +26,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Weapon ID</name>
+    <name>WeaponParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Armor ID</name>
+    <name>ArmorParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Ammunition ID</name>
+    <name>ArrowParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Ring ID</name>
+    <name>RingParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Spell ID</name>
+    <name>SpellParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -81,23 +81,23 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>ItemType ID</name>
+    <name>ItemTypeParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>ItemUsage ID</name>
+    <name>ItemUsageParam ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk48</name>
-    <type>u8</type>
+    <type>s8</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk49</name>
-    <type>u8</type>
+    <type>s8</type>
     <default>0</default>
   </entry>
   <entry>
