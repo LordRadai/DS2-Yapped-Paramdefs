@@ -158,7 +158,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48</name>
+    <name>Equipped Weapon Index</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -203,7 +203,7 @@
     <default>0</default>
   </entry>
     <entry>
-    <name>Unk69</name>
+    <name>ChrRoundDamageParam ID</name>
     <type>s8</type>
     <default>0</default>
   </entry>
@@ -488,7 +488,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk133</name>
+    <name>ChrRoundDropSoulParam ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>

@@ -426,22 +426,22 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk154</name>
+    <name>Character Hit Durability Consumption</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk158</name>
+    <name>Map Hit Durability Consumption</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk15C</name>
+    <name>Spell Use Durability Consumption</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk160</name>
+    <name>Move Bullet Durability Consumption</name>
     <type>f32</type>
     <default>0</default>
   </entry>
