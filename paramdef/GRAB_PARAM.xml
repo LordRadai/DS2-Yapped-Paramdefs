@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Attacker Position X</name>
+    <name>Attacker DummyPoly ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -31,7 +31,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Attacker Position Y</name>
+    <name>Defender DummyPoly ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -61,7 +61,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Attacker Relative Position Direction</name>
+    <name>Shift Target</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -96,12 +96,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40</name>
+    <name>Relative Position X</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Attacker Relative Position</name>
+    <name>Relative Position Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -116,22 +116,44 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50</name>
-    <type>s32</type>
+    <name>Distance Confirm Type</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+2:Skip
+</description>
+  </entry>
+    <entry>
+    <name>Enable Angle Confirm</name>
+    <type>u8</type>
+    <default>0</default>
+	<description>
+0:Distance
+1:Angle
+</description>
+  </entry>
+    <entry>
+    <name>Unk52</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk53</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk54</name>
+    <name>Min Distance X</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58</name>
+    <name>Min Distance Y</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5C</name>
+    <name>Min Distance Z</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -151,17 +173,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Max Angle Diff</name>
+    <name>Unk Angle Diff 1</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk70</name>
+    <name>Unk Angle Diff 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk74</name>
+    <name>Unk Angle Diff 3</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -171,7 +193,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk7C</name>
+    <name>Max Angle Diff</name>
     <type>f32</type>
     <default>0</default>
   </entry>

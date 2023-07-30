@@ -22,12 +22,37 @@
   </entry>
   <entry>
     <name>Unk10</name>
-    <type>s32</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk11</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk12</name>
+    <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk14</name>
-    <type>s32</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk15</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk16</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Unk17</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>

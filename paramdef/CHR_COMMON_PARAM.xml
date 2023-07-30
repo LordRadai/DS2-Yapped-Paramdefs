@@ -141,7 +141,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk70</name>
+    <name>Poise Break Handling</name>
     <type>u16</type>
     <default>0</default>
   </entry>
@@ -171,12 +171,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk84</name>
-    <type>f32</type>
+    <name>No Proxy</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk88</name>
+    <name>Ragdoll Proxy</name>
     <type>s32</type>
     <default>0</default>
   </entry>

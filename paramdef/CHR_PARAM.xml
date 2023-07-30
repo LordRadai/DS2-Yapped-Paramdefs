@@ -78,23 +78,8 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk2C</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk2C</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk2C</name>
-    <type>u8</type>
+    <name>Stamina</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -104,42 +89,12 @@
   </entry>
   <entry>
     <name>Unk34</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk35</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk36</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk37</name>
-    <type>u8</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk38</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk39</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk3A</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk3B</name>
-    <type>u8</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>

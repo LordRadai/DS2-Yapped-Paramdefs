@@ -106,12 +106,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>SpEffect Type</name>
+    <name>Unk4D</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Item Type</name>
+    <name>SpEffect Type</name>
     <type>u8</type>
     <default>0</default>
     <description>Used in items.

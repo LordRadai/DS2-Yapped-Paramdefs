@@ -26,12 +26,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
+    <name>Walk Min Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>Walk Acceleration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -41,7 +41,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Walk Speed</name>
+    <name>Walk Max Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -56,12 +56,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Slow Walk Turn Rate</name>
+    <name>Walk Banking Speed 1</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Walking Turn Rate</name>
+    <name>Walk Banking Speed 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -76,12 +76,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Run Speed</name>
+    <name>Dash Min Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40</name>
+    <name>Dash Acceleration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -91,7 +91,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48</name>
+    <name>Dash Max Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -106,12 +106,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Running Turning Related 1</name>
+    <name>Dash Banking Speed 1</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Running Turning Related 2</name>
+    <name>Dash Banking Speed 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -136,92 +136,92 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Walk Speed</name>
+    <name>Side Walk - Walk Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk70</name>
+    <name>Side Walk -Unk70</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk74</name>
+    <name>Side Walk -Unk74</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk78</name>
+    <name>Side Walk -Unk78</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk7C</name>
+    <name>Side Walk -Unk7C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk80</name>
+    <name>Side Walk - Unk80</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Run Speed</name>
+    <name>Side Walk - Dash Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk88</name>
+    <name>Side Walk - Unk88</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk8C</name>
+    <name>Side Walk - Unk8C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk90</name>
+    <name>Side Walk - Unk90</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk94</name>
+    <name>Side Walk - Unk94</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk98</name>
+    <name>Side Walk - Unk98</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on Unk9C</name>
+    <name>Side Walk - Unk9C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on UnkA0</name>
+    <name>Side Walk - UnkA0</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on UnkA4</name>
+    <name>Side Walk - UnkA4</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on UnkA8</name>
+    <name>Side Walk - UnkA8</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on UnkAC</name>
+    <name>Side Walk - UnkAC</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Locked-on UnkB0</name>
+    <name>Side Walk - UnkB0</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -341,7 +341,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Roll Speed</name>
+    <name>Dodge Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -351,7 +351,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk118</name>
+    <name>Dodge Distance</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -366,7 +366,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk124</name>
+    <name>Stand Jump Height</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -386,12 +386,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk134</name>
+    <name>Stand Jump Lenght</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk138</name>
+    <name>Stand Jump Lenght 2</name>
     <type>f32</type>
     <default>0</default>
   </entry>

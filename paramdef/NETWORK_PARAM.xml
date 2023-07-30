@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Common - Sign Height Offset</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>Common - Max Sign Position Correction Range</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Common - Summon Timeout Time</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -21,7 +21,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Summon Sign - Sign Puddle Active Message Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -31,12 +31,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>SignList Request Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>SignList Max Count</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -131,7 +131,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk68</name>
+    <name>BloodMessageList Max Count</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -181,7 +181,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk90</name>
+    <name>BloodMessageList Request Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -236,7 +236,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkBC</name>
+    <name>BloodStainList Max Count</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -256,7 +256,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkCC</name>
+    <name>BloodStainList Request Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -356,7 +356,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk11C</name>
+    <name>GhostData Creation Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -416,7 +416,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14C</name>
+    <name>GhostData Request Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -601,7 +601,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E0</name>
+    <name>RightMatchingArea Request Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>
