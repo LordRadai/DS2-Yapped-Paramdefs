@@ -286,18 +286,18 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk62</name>
+    <name>Hitback isSpawnOnWeapon</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Hitback Hitbox Origin DummyPoly ID</name>
+    <name>Hitback Origin DummyPoly ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Hitback Hitbox Shape</name>
+    <name>Hitback Shape</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -318,12 +318,12 @@
   </entry>
   
   <entry>
-    <name>Hitback Hitbox Radius Multiplier</name>
+    <name>Hitback Radius Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Hitback Hitbox Lenght Multiplier</name>
+    <name>Hitback Lenght Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>
