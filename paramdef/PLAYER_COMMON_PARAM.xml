@@ -11,12 +11,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Dash Hold Delay</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Dash Stamina Regen Start Delay</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -36,7 +36,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Jump Min Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -251,12 +251,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC8</name>
+    <name>Torch Time Increase</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkCC</name>
+    <name>Max Torch Time</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -396,27 +396,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk13C</name>
+    <name>Block % Increment - S Scaling</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk140</name>
+    <name>Block % Increment - A Scaling</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk144</name>
+    <name>Block % Increment - B Scaling</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk148</name>
+    <name>Block % Increment - C Scaling</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14C</name>
+    <name>Block % Increment - D Scaling</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -481,22 +481,22 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk180</name>
+    <name>Backstab Damage Rate</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk184</name>
+    <name>Riposte Damage Rate</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk188</name>
+    <name>Guard Break Stab Damage Rate</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18C</name>
+    <name>Damage Rate</name>
     <type>f32</type>
     <default>0</default>
   </entry>

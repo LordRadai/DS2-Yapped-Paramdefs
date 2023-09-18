@@ -51,7 +51,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+0 - Unk</name>
+    <name>+0 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -96,7 +96,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+1 - Unk</name>
+    <name>+1 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -141,7 +141,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+2 - Unk</name>
+    <name>+2 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -186,7 +186,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+3 - Unk</name>
+    <name>+3 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -231,7 +231,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+4 - Unk</name>
+    <name>+4 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -276,7 +276,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+5 - Unk</name>
+    <name>+5 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -321,7 +321,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+6 - Unk</name>
+    <name>+6 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -366,7 +366,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+7 - Unk</name>
+    <name>+7 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -411,7 +411,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+8 - Unk</name>
+    <name>+8 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -456,7 +456,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+9 - Unk</name>
+    <name>+9 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -501,7 +501,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>+10 - Unk</name>
+    <name>+10 - Enchanted Scaling:</name>
     <type>f32</type>
     <default>0</default>
   </entry>

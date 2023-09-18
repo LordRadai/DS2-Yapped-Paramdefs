@@ -237,7 +237,7 @@
   </entry>
   <entry>
     <name>Unk8C</name>
-    <type>f32</type>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -257,12 +257,12 @@
   </entry>
   <entry>
     <name>Unk9C</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>UnkA0</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -272,12 +272,12 @@
   </entry>
   <entry>
     <name>UnkA8</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>UnkAC</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -515,7 +515,7 @@
   </entry>
   <entry>
     <name>Unk12C</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>

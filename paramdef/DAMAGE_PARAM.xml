@@ -177,7 +177,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk41</name>
+    <name>Stagger Direction</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -234,12 +234,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4F</name>
+    <name>Hit Visual</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50</name>
+    <name>Hit Material</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -302,7 +302,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk65</name>
+    <name>Hit Flags</name>
     <type>u8</type>
     <default>0</default>
   </entry>

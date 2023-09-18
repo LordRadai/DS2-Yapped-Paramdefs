@@ -60,13 +60,13 @@
 4: Successful Guardbreak
 5: Send Flying
 6: Send Flying
-7: Force Guardbreak Stun
+7: Guardbreak Stun
 8: Knockdown
-9: Force Parry (Short Duration)
+9: ParryBReak
 10: Normal Stun
-11: Force Guardbreak Stun
+11: Guardbreak Stun
 12: Long Guard Break Stun
-13: Unknown Variable Behaviour
+13: Throw
 14: Long Stun
 15: Normal Stun
 16: No Effect
@@ -101,7 +101,7 @@
   </entry>
   
   <entry>
-    <name>Knockdown Duration Multiplier</name>
+    <name>DownDuration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -111,7 +111,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Turn Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -248,7 +248,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk88</name>
+    <name>Slow Duration</name>
     <type>f32</type>
     <default>0</default>
   </entry>
